@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestLiveData</string>
+    <string name="input_something">input something</string>
+    <string name="there_is_left_value">there is left value</string>
+</resources>
