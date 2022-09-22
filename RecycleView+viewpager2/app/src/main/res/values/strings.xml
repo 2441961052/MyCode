@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyDemo</string>
+    <string name="recycleView">recycleView</string>
+    <string name="viewPager">viewpager</string>
+</resources>
