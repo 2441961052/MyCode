@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">MyDatabinding</string>
-    <string name="name">name</string>
-    <string name="password">password</string>
-    <string name="login">login</string>
-</resources>
